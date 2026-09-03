@@ -60,4 +60,4 @@ function soma (a,b) {
 - [X] Area de membros
 - [ ] Integracao com outros pagamentos
 - [ ] Sistema de bonus
-- [X] Css do rodape
+- [x] Css do rodape

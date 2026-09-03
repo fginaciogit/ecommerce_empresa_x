@@ -46,3 +46,11 @@ __Melhoria 1__, _melhoria 2_
 Contribuidor principal: https://github.com/fginacio/ms
 
 [![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://github.com/fginacio/ms)
+
+## Código da funcao soma
+
+```javascript
+function soma (a,b) {
+    return a+b;
+}
+```
